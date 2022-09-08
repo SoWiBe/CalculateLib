@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateLib", "CalculateLib\CalculateLib.csproj", "{396E4B10-6099-4E63-9F4A-486F6E9F2838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeTests", "ShapeTests\ShapeTests.csproj", "{4AEFA479-4246-499D-BB02-2985CC1D73B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396E4B10-6099-4E63-9F4A-486F6E9F2838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396E4B10-6099-4E63-9F4A-486F6E9F2838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396E4B10-6099-4E63-9F4A-486F6E9F2838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396E4B10-6099-4E63-9F4A-486F6E9F2838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEFA479-4246-499D-BB02-2985CC1D73B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEFA479-4246-499D-BB02-2985CC1D73B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEFA479-4246-499D-BB02-2985CC1D73B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEFA479-4246-499D-BB02-2985CC1D73B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC9F1B8-6917-4B12-B654-6E304435EDCE}
+	EndGlobalSection
+EndGlobal
